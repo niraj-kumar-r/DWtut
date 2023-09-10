@@ -1,2 +1,2 @@
 Hello, world
-i am Harshith
+I am Harshith
